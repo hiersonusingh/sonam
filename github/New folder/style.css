@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 900px;
+    width:100%;
+    margin:30px;
+    background:black;
+    font-size: 18px;
+    display:inline;
+    text-align: center;
+    /* position: relative; */
+}
+ .firefox h1{
+    
+    text-align: center;
+    font-size: 40px;
+
+
+}
+
+input{
+    height: 60px;
+    width: 70%;
+    background-color: #fff;
+    color:black;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    border: #333 2px solid;
+}
+.menu-icon i{
+    margin: 10px;
+    text-align: center;
+   
+  
+}
+.one{
+    height: 400px;
+    width: 30%;
+    background-color:whitesmoke;
+    float: left;
+    margin-top: 140px;
+    margin: 20px;
+    letter-spacing: 2px;
+    
+    
+
+    
+}
+.main2 img{
+    height:250px;
+    width:100%;
+}
+.two{
+    height: 400px;
+    width: 30%;
+    background-color:whitesmoke;
+    float: left;
+    margin-top: 140px;
+    margin: 20px;
+    
+    
+    
+}
+.three{
+    height: 400px;
+    width: 30%;
+    background-color:whitesmoke;
+    float: left;
+    margin-top: 140px;
+    margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+one,
+two,
+three{
+height: 50px;
+width: 40%;
+background-color: #333;
+}
